@@ -1,3 +1,3 @@
 # Teaxt-To-Speech-Converter
 
-## preview -speakmytext.netlify.app
+## preview -https://app.netlify.com/projects/speakmytext/overview
